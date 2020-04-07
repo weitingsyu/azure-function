@@ -1,0 +1,7 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=ssotblobtrigger;AccountKey=gpBNxy3T7Z0rYn/YIwPv3PMnvHupLAAMFw41KGIfOt3CN9/HyoiXwwLrab5wPiq03S2cqj3/P4wa3YHcN8HMdQ==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "java"
+  }
+}
